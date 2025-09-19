@@ -167,9 +167,6 @@ npm start
 
 ## 🎨 Interfaz
 
-📌 **Agrega capturas del frontend en la carpeta `/docs/screenshots/` y enlázalas aquí.**
-
-
 ### Vista tipo dashboard donde vemos un resumen de los proyectos
 ![Vista dashboard](Screenshots/dashboard.png)
 
